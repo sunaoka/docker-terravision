@@ -1,4 +1,4 @@
-VERSION := 0.50.2
+VERSION := 0.51.1
 
 IMAGE := sunaoka/terravision
 
